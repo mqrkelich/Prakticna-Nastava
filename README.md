@@ -1,4 +1,3 @@
-````markdown
 # Prakticna-Nastava
 
 U ovom repozitoriju ćeš naučiti osnovne GitHub komande kao što su kreiranje repozitorija, `git commit`, `git push`, grananje (branch), spajanje (merge), fork i `git pull`.
@@ -20,9 +19,7 @@ Kada izmijeniš neki fajl, koristiš commit da “zapamtiš” te promjene uz kr
 Primjer:
 ```bash
 git commit -m "Dodao novi tekst u README fajl"
-````
-
----
+```
 
 ### 🚀 Push
 
